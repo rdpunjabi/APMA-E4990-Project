@@ -6,7 +6,7 @@ Team members: Rahi Punjabi, Seung Hwan Lee
 
 Roles: Web Development (Seung), Machine Learning (Rahi)
 
-Tools: Python, Tensor Flow, Flask
+Tools: Python, TensorFlow, Flask
 
 Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
@@ -27,6 +27,13 @@ The aim of this project is to predict the type of dog from a dog image uploaded 
 1. http://cs231n.github.io/convolutional-networks/
 2. http://deeplearning.net/tutorial/lenet.html
 3. https://www.tensorflow.org/tutorials/deep_cnn
+
+<b>A Simple Overview of CNN</b>
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*tJ1Rkl5xw_5izEZXmNfh5Q.png)
+![alt text](https://cdn-images-1.medium.com/max/2000/1*JSnKtzEgiHd4p6UlNv_C7w.png)
+
+
 
 <b>Reference paper</b>: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
