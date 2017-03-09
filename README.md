@@ -1,5 +1,3 @@
-# APMA-E4990-Project
-
 <b>APMA E4990 Project Proposal</b>
 
 Image Classification of Dogs Using Convolutional Neural Networks
